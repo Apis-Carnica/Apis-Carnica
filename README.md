@@ -20,4 +20,4 @@
 
 ***
 
-✉️ You can reach me via IPoAC, [_email_](mailto:nathan@artiotech.org), or on Discord **Ursa#1337**
+✉️ You can reach me via IPoAC, [_email_](mailto:nathan@artiotech.org), or on Discord **apis_carnica**
