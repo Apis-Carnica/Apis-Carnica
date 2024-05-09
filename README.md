@@ -1,23 +1,10 @@
-### Stop right there! 🫵
-##### I'm a special lad with a full plate!
+### Howdy there!
 ***
 
-📚 Currently studying for my OSCP and CISSP (ping me if you need a study partner)
+It seems that you caught me in the midst of refactoring everything. Now that I have time to breathe, I'm going to make changes (and deletions) to some repos in order to streamline my projects and look slightly less like a mess. If you like some repos, please pull them soon, since they may not exist shortly. In other news, I'll be recoding a bunch of Python PoCs for popular CVEs after the dust is settled; if you'd like to save your forehead from gathering brick dust, make a feature request with the CVE you want converted.
 
-📝 Procratinating lab reports makes me feel all fuzzy inside
-
-📖 I'm writing two books, and would love to be held accountable for my inactions
-
-💻 I'm picking up small government contracts, so reach out if you need a subcontractor for a bid
-
-🏭 I would love to collaborate on more OT and IoT assessment tools and processes
-
-📻 There is so much more I'd love to know about RF circuit design and embedded systems engineering
-
-🐧 I'd love to answer your questions about testing the security of Linux systems
-
-🌲 When I'm not messing with electronics or reading, I can be found clutching a fifth of Jameson halfway up a tree
+Good luck on your projects, and may God have mercy on our souls.
 
 ***
 
-✉️ You can reach me via IPoAC, [_email_](mailto:nathan@artiotech.org), or on Discord **apis_carnica**
+You can reach me via [_email_](mailto:nathan@artiotech.org), or on Discord **apis_carnica**
